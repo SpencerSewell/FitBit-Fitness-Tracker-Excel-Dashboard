@@ -1,1 +1,1 @@
-# FitBit-Fitness-Tracker-Excel-Dashboard
+# BellaBeat Fitness Dashboard in Excel
